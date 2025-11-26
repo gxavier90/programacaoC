@@ -24,48 +24,48 @@ int main () {
 
     printf("DESAFIO SUPER TRUNFO\n"); // Aqui inicia-se o cadastro das cartas 01 e 02 para o Desafio Super Trunfo
 
-    printf("CARTA01\n"); // CADASTRO DA CARTA 01
-    printf("digite o código do estado: \n");
+    printf("\nCARTA 1\n"); // CADASTRO DA CARTA 01
+    printf("Digite o código do estado: \n");
     scanf("%s", &estado_1);
 
-    printf("digite o código da carta: \n");
+    printf("Digite o código da carta: \n");
     scanf("%s", &codigocarta_1);
 
-    printf("digite o nome da cidade: \n");
+    printf("Digite o nome da cidade: \n");
     scanf("%s", &nomecidade_1);
 
-    printf("digite a população: \n");
+    printf("Digite a população: \n");
     scanf("%d", &populacao_1);
 
-    printf("digite a área em km²: \n");
+    printf("Digite a área em km²: \n");
     scanf("%f", &areakm2_1);
 
-    printf("digite o PIB: \n");
+    printf("Digite o PIB: \n");
     scanf("%f", &pib_1);
 
-    printf("digite a quantidade de pontos turísticos: \n");
+    printf("Digite a quantidade de pontos turísticos: \n");
     scanf("%d", &pontosturist_1);
 
-    printf("CARTA02\n"); // CADASTRO DA CARTA 02
-    printf("digite o código do estado: \n");
+    printf("\nCARTA 2\n"); // CADASTRO DA CARTA 02
+    printf("Digite o código do estado: \n");
     scanf("%s", &estado_2);
 
-    printf("digite o código da carta: \n");
+    printf("Digite o código da carta: \n");
     scanf("%s", &codigocarta_2);
 
-    printf("digite o nome da cidade: \n");
+    printf("Digite o nome da cidade: \n");
     scanf("%s", &nomecidade_2);
 
-    printf("digite a população: \n");
+    printf("Digite a população: \n");
     scanf("%d", &populacao_2);
 
-    printf("digite a área em km²: \n");
+    printf("Digite a área em km²: \n");
     scanf("%f", &areakm2_2);
 
-    printf("digite o PIB: \n");
+    printf("Digite o PIB: \n");
     scanf("%f", &pib_2);
 
-    printf("digite a quantidade de pontos turísticos: \n");
+    printf("Digite a quantidade de pontos turísticos: \n");
     scanf("%d", &pontosturist_2);
 
     // Exibição da Carta 1
